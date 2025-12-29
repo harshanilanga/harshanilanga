@@ -20,12 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer excited about building 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=harshanilanga&show_icons=true&theme=default)
 
-## 📝 Recent Projects
-
-- [Project 1](#) - Brief description
-- [Project 2](#) - Brief description
-- [Project 3](#) - Brief description
-
 ## 💬 Let's Connect
 
 - 📧 Email: your.email@example.com
